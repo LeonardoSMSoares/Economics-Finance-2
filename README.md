@@ -7,4 +7,6 @@ Based on the books/courses:
 
 2 - Hands-on Time Series Analysis with Python: From Basics to Bleeding Edge Techniques by Ashish Patel;
 
-3 - Introduction to Time Series Forecasting with Python: How to Prepare Data and Develop Models to Predict the Future by Jason Brownlee.
+3 - Introduction to Time Series Forecasting with Python: How to Prepare Data and Develop Models to Predict the Future by Jason Brownlee;
+
+4 - Advanced Forecasting with Python: With State-of-the-Art-Models by Joos Korstanje.
