@@ -9,4 +9,6 @@ Based on the books/courses:
 
 3 - Introduction to Time Series Forecasting with Python: How to Prepare Data and Develop Models to Predict the Future by Jason Brownlee;
 
-4 - Advanced Forecasting with Python: With State-of-the-Art-Models by Joos Korstanje.
+4 - Advanced Forecasting with Python: With State-of-the-Art-Models by Joos Korstanje;
+
+5 - An Introduction to Statistical Methods and Data Analysis by R. Lyman Ott.
